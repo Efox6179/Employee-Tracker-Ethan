@@ -23,7 +23,7 @@ CREATE TABLE employee (
     manager_id INTEGER
 );
 
-SELECT name
+SELECT names
 FROM department
 JOIN roles
 ON department.id = roles.department_id;
