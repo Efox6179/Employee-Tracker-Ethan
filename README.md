@@ -27,3 +27,6 @@ You have to open the index.js file and open the terminal, then type in "npm i" f
 Check out my other [Projects](https://github.com/Efox6179?tab=repositories)
 
 Feel free to shoot me an [Email](mailto:efox6179@icloud.com) 
+
+![node snippet](https://user-images.githubusercontent.com/95189308/159187835-38088bcb-d2ee-4d8a-875f-2d7c3a184b74.PNG)
+![node snippet 2](https://user-images.githubusercontent.com/95189308/159187844-4d006c95-c1ad-4575-a9ee-09c4e763093b.PNG)
