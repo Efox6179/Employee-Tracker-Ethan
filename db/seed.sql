@@ -28,4 +28,4 @@ VALUES
 ("Jack", "Lemon", 6, 5),
 ("Jeff", "Jackson", 7, NULL),
 ("Jillian", "Danza", 8, 7),
-("Michael", "Pipes", 9, 3);
+("Michael", "Pipes", 9, 3); 

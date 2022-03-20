@@ -40,5 +40,5 @@ ON role.department_id = department.id;
 SELECT first_name, last_name, role_id, manager_id 
 FROM employee 
 JOIN role 
-ON employee.role_id = role.department_id;
+ON employee.role_id = role.department_id; 
 

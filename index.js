@@ -29,7 +29,7 @@ inquirer.prompt({
 "Add a department",
 "Add a role",
 "Add employee",
-"Exit"
+"Exit ❌"
             ]
 })
 
@@ -193,8 +193,8 @@ function addRole() {
     });
 }
 
-
-/*function addEmployees() {
+// I had everything working and then suddenly the addEmployees stopped responding it was giving me a blank message in the command line, I have not been able to figure it out just yet. 
+/* function addEmployees() {
     const sql = "SELECT * FROM employee, role";
     connection.query(sql, (err, results) => {
         if (err) throw err;
