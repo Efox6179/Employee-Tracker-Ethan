@@ -194,7 +194,7 @@ function addRole() {
 }
 
 
-function addEmployees() {
+/*function addEmployees() {
     const sql = "SELECT * FROM employee, role";
     connection.query(sql, (err, results) => {
         if (err) throw err;
@@ -260,4 +260,4 @@ function addEmployees() {
         });
     });
 }
-
+*/
