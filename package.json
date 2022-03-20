@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker-ethan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efox6179/Employee-Tracker-Ethan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Efox6179/Employee-Tracker-Ethan/issues"
+  },
+  "homepage": "https://github.com/Efox6179/Employee-Tracker-Ethan#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1",
+    "mysql": "^2.18.1"
+  }
+}
